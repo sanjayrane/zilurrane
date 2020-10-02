@@ -4,6 +4,18 @@
 ```
 
 <h2>
+  :vulcan_salute:	Let's Catch-up
+ </h2>
+
+  [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zilurrane)](https://github.com/zilurrane)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zilurane/)](https://www.linkedin.com/in/zilurane/)
+  [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/zilurrane)](https://dev.to/zilurrane)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ZiluRane/)](https://twitter.com/ZiluRane/)
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/zilurane/)](https://www.facebook.com/zilurane/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zilurrane@gmail.com)](mailto:zilurrane@gmail.com)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=8446774967&text=Hi!🖖)](https://api.whatsapp.com/send?phone=8446774967&text=Hi!🖖)
+
+<h2>
   :man_technologist: Tech & Tools Preference
 </h2>
 
