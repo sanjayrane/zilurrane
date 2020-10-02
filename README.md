@@ -13,7 +13,7 @@
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ZiluRane/)](https://twitter.com/ZiluRane/)
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/zilurane/)](https://www.facebook.com/zilurane/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zilurrane@gmail.com)](mailto:zilurrane@gmail.com)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=8446774967&text=Hi!🖖)](https://api.whatsapp.com/send?phone=8446774967&text=Hi!🖖)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+918446774967&text=Hi!🖖)](https://api.whatsapp.com/send?phone=+918446774967&text=Hi!🖖)
 
 <h2>
   :man_technologist: Tech & Tools Preference
