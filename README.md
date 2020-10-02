@@ -3,11 +3,8 @@
 01011010 01101001 01101100 01110101 00100000 01010010 01100001 01101110 01100101
 ```
 <p>
-  A self-motivated Tech Enthusiast and Full Stack Engineer.
+  💻 A self-motivated Tech Enthusiast and Full Stack Engineer.
 </p>
-
-<h4>
-  💻 Full time working for <a href="https://www.e-zest.com/"><img src="https://cdn2.hubspot.net/hubfs/744339/icons/Orb%20colour.png" height="15" width="15" alt="e-Zest"></img></a>
 
 </h4>
 <h4>
