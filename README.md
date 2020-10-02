@@ -1,12 +1,15 @@
-### Hi there 👋 My name is Zilu :sun_with_face:
-```
-01011010 01101001 01101100 01110101 00100000 01010010 01100001 01101110 01100101
-```
+### Hi there 👋 My name is Zilu :sun_with_face: ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zilurrane.zilurrane)
+
+<h4>
+  💻 FullStack Engineer 
+</h4>
+
 <p>
-  💻 A self-motivated Tech Enthusiast and Full Stack Engineer.
+  Passionate about Javascript and Open Source.
+  <br />
+  Build web and mobile apps that provide intuitive workflows. Love to shower technologies for best possible use cases.
 </p>
 
-</h4>
 <h4>
   :toolbox:	 Look at my full portfolio here <a href="https://zilu.dev/">https://zilu.dev/</a>
 </h4>
