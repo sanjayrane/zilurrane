@@ -60,4 +60,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=zilurrane&show_icons=true&theme=algolia&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilurrane&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=zilurrane&show_icons=true&theme=algolia&count_private=true" />
 </div>
